@@ -20,6 +20,7 @@
   * 牿嶺街少年殺人事件：馬瑞想看但一直還沒有機會看
   * The Man From Earth 這個男人來自地球：Olivia 推薦
   * 一一：綠豆推薦
+  * Rubber 超能輪胎殺人事件：穴宇推薦，「我心目中的神片」
   * Fight Club 鬥陣俱樂部
   * Arrival 異星入境
   * Pulp Fiction 黑色追緝令
