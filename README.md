@@ -21,6 +21,31 @@
   * The Man From Earth 這個男人來自地球：Olivia 推薦
   * 一一：綠豆推薦
   * Rubber 超能輪胎殺人事件：穴宇推薦，「我心目中的神片」
+  * 綁架看門狗：Ct Light 推薦，奉俊昊
+  * 殺人回憶：Ct Light 推薦，奉俊昊
+  * 漢江怪物：Ct Light 推薦，奉俊昊
+  * 母親：Ct Light 推薦，奉俊昊
+  * 東京：Ct Light 推薦，奉俊昊
+  * 雪國列車：Ct Light 推薦，奉俊昊
+  * 玉子：Ct Light 推薦，奉俊昊
+  * Prisoners 私法爭鋒：黃媃推薦
+  * Law Abiding Citizen 重案對決：黃媃推薦
+  * The Skeleton Key 毒鑰：黃媃推薦
+  * About Time 真愛每一天：Flora 推薦，「蠻好哭的」，Angela「哭的亂七八糟」
+  * 貓咪收集之家：黃易推薦
+  * 齊天大聖東西遊記：Diamond Hung 推薦
+  * The Intern 高年級實習生：陳玉井推薦
+  * Unknown 狙擊陌生人：彭彭推薦
+  * The Green Mile 綠色奇蹟：彭彭推薦
+  * The Sound of Music 真善美：Chialin 推薦
+  * 見鬼 10：Chialin 推薦
+  * 初戀那件小事：Chialin 推薦
+  * Se7en 火線追緝令：Chialin 推薦
+  * 霸王別姬：Yee Chen 推薦
+  * 熱帶魚：Yee Chen 推薦
+  * 少年吔，安啦！：Yee Chen 推薦
+  * 停車：Yee Chen 推薦
+  * Left Behind 末日謎蹤：James Chou 推薦，「爛到經典」
   * Fight Club 鬥陣俱樂部
   * Arrival 異星入境
   * Pulp Fiction 黑色追緝令
@@ -46,3 +71,8 @@
   * Inglourious Basterds 惡棍特工
   * Baby Driver 玩命再劫
   * Taxi Driver 計程車司機
+  * Roman Holiday 羅馬假期
+  * Breakfast at Tiffany's 第凡內早餐
+  * The Talented Mr. Ripley 天才雷普利
+  * Good Will Hunting 心靈捕手
+  * Inside Job 黑金風暴
