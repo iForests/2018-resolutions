@@ -48,15 +48,63 @@
   * 少年吔，安啦！：Yee Chen 推薦
   * 停車：Yee Chen 推薦
   * Left Behind 末日謎蹤：James Chou 推薦，「爛到經典」
+  * 昼顔：Mie 推薦，「很爛」
+  * The Choice 愛情的選擇：許藝馨推薦，「愛情片、超級推」
+  * Hector and the Search for Happiness 尋找快樂的 15 種方法：許藝馨推薦，「這部很有趣、看完有種豁然開朗的感覺」
+  * 50 First Dates 我的失憶女友：許藝馨推薦，「愛情片、滿不錯的」
+  * Spotlight 驚爆焦點：許藝馨推薦，「為了真相努力、最後有種感動」
+  * Léon 終極追殺令：吳佩佩推薦
+  * Nuovo Cinema Paradiso 新天堂樂園：吳佩佩推薦
+  * Confessions 告白：mimi 推薦
+  * 布丁武士：mimi 推薦
+  * 露西：mimi 推薦，「爛到憤怒」
+  * Premoniton 亡命感應：mimi 推薦
+  * Coherence 彗星來的那一夜：mimi 推薦
+  * 12 Angry Men 十二怒漢：mimi 推薦
+  * Live by Night 夜行人生：188 推薦，「失眠好幫手」
+  * Hidden Figures 關鍵少數：188 推薦，「勵志片」
+  * The Secret Life of Walter Mitty 白日夢冒險王：188 推薦，「勵志片」
+  * Das weiße Band 白色緞帶：陳力推薦
+  * The Hateful Eight 八惡人：Claire 推薦
+  * Hello Ghost 開心鬼上身：Claire 推薦，「韓國電影，風格滿另類的但會哭爆」
+  * The Grand Budapest Hotel 歡迎來到布達佩斯大飯店：Claire 推薦
+  * Dangal 我和我的冠軍女兒：Claire 推薦
+  * 太陽的孩子：Claire 推薦
+  * Silver Linings Playbook 派特的幸福劇本：Claire 推薦
+  * Split 分裂：Claire 推薦
+  * Being John Malkovich 變腦：Claire 推薦
+  * Micmacs 異想奇謀：B 咖的拯救世界大作戰：Claire 推薦
+  * 讓子彈飛：Claire 推薦
+  * 活著：Claire 推薦
+  * Inside Out 腦筋急轉彎：Ya-Chu Chang 推薦
+  * The Shining 鬼店：Ciana、黃媃 推薦
+  * Triangle 汪洋血迷宫：Ciana 推薦
+  * The Skeleton Key 毒鑰：Ciana 推薦
+  * The Thing 突變第三型：Ciana 推薦
+  * Predestination 超時空攔截：James 推薦
+  * 富春山居圖：Ciana 推薦，「大爛片」
+  * 台北物語：Ciana 推薦，「大爛片」
+  * 文科戀曲 Literal Arts：楊仁坤推薦
+  * 第 22 年的告白：我是殺人犯：卡恩推薦，「有趣的劇情設定」
+  * The Survival Family：卡恩推薦，「莫名的劇情設定」
+  * 惡魔蛙男：卡恩推薦，「恐怖的劇情設定」
+  * 本能寺大飯店：卡恩推薦，「莫名的穿越劇」
+  * 早晨！動新聞：卡恩推薦，「殺時間的趣味電影」
+  * Lion 漫漫回家路：Winnie 推薦
+  * Damages 金權遊戲：Winnie 推薦，「韓國片但大推」
+  * 模範生：Winnie 推薦
+  * The Revenant 神鬼獵人：Winnie 推薦
+  * The Lobster 單身動物園：Winnie 推薦，「節奏慢慢的但題材特別」
+  * White Lies, Black Lies 失控謊言：Winnie 推薦，「出乎意料之外好看的國片」
+  * Baywatch 海灘救難隊：Winnie 推薦
+  * How to Be Single 單身啪啪啪：Winnie 推薦
+  * The Silence of the Lambs 沈默的羔羊：高子華推薦
   * Fight Club 鬥陣俱樂部
   * Arrival 異星入境
   * Pulp Fiction 黑色追緝令
-  * Inside Out 腦筋急轉彎
   * Lady Bird 淑女鳥
   * La La Land 樂來越愛你
   * Logan 羅根
-  * 12 Angry Men 十二怒漢
-  * Spotlight 驚爆焦點
   * Before Sunrise 愛在黎明破曉時
   * Warrior 勇者無敵
   * Schindler's List 辛德勒的名單
