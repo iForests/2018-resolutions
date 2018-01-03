@@ -6,6 +6,8 @@
 
 ## 看 52 部舊電影：0 / 52
 
+* DONE
+  * 1/3 Trainspotting 猜火車
 * 預計要看的清單
   * Orange County 橘郡男孩：Dayo 推薦
   * The Room 房間：周忠毅推薦，「爛到今年有一部傳記電影在講他」
