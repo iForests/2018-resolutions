@@ -7,8 +7,8 @@
 ## 看 52 部舊電影：0 / 52
 
 * 預計要看的清單
-  * Orange County：Dayo 推薦
-  * The Room：周忠毅推薦，「爛到今年有一部傳記電影在講他」
+  * Orange County 橘郡男孩：Dayo 推薦
+  * The Room 房間：周忠毅推薦，「爛到今年有一部傳記電影在講他」
   * 一個人的武林：馬瑞推薦，「打鬥是蠻不錯，但劇情真的太爛了」
   * The Best Offer 寂寞拍賣師：lockercho 推薦，「喜歡的」
   * Mother 非常母親：lockercho 推薦，「喜歡的」
