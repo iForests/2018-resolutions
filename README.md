@@ -105,6 +105,13 @@
   * How to Be Single 單身啪啪啪：Winnie 推薦
   * The Silence of the Lambs 沈默的羔羊：高子華推薦
   * 目擊者：劉育全推薦
+  * 奪命金：Wan 推薦
+  * The Cabin in the Woods 詭屋：江寒楓推薦，「恐怖電影必推，其中的另類與諷刺處要等你自己看XD 有點像比較精彩的超能輪胎殺手」
+  * Planet Terror 恐怖星球：江寒楓推薦，「爛片經典，也很噁爛」
+  * Watchmen 守護者：江寒楓推薦，「幾乎沒有超級英雄的超級英雄片，非常之沉重」
+  * Mr. Nobody 倒帶人生：江寒楓推薦
+  * Cloud Atlas 雲圖：江寒楓推薦
+  * Pandorum 顫慄異次元：江寒楓推薦
   * Fight Club 鬥陣俱樂部
   * Arrival 異星入境
   * Pulp Fiction 黑色追緝令
