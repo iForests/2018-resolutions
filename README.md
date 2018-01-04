@@ -7,7 +7,10 @@
 ## 看 52 部舊電影：1 / 52
 
 * DONE
+  * 1/4 六弄咖啡館
   * 1/3 Trainspotting 猜火車
+* 順便記一下看過的 2018 年的電影
+  * 1/4 Wonder 奇蹟男孩 (7)：狗狗線和姊姊線很感人；奧吉線有點太美好了，真實世界大概殘酷一百倍吧
 * 預計要看的清單
   * Orange County 橘郡男孩：Dayo 推薦
   * The Room 房間：周忠毅推薦，「爛到今年有一部傳記電影在講他」
@@ -101,6 +104,7 @@
   * Baywatch 海灘救難隊：Winnie 推薦
   * How to Be Single 單身啪啪啪：Winnie 推薦
   * The Silence of the Lambs 沈默的羔羊：高子華推薦
+  * 目擊者：劉育全推薦
   * Fight Club 鬥陣俱樂部
   * Arrival 異星入境
   * Pulp Fiction 黑色追緝令
