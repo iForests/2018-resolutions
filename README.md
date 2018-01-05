@@ -113,6 +113,17 @@
   * Mr. Nobody 倒帶人生：江寒楓推薦
   * Cloud Atlas 雲圖：江寒楓推薦
   * Pandorum 顫慄異次元：江寒楓推薦
+  * Iron Sky 鐵幕蒼穹：Ct Light 推薦，「講納粹飛碟的黑色幽默喜劇」
+  * Borat 芭樂特：Ct Light 推薦，「諷刺美國文化的偽紀錄片」
+  * 魔幻時刻：綠豆推薦
+  * American Made 美國製造：紅豆推薦，「真人真事改編超諷刺美帝的片」
+  * Baahubali: The Beginning 帝國戰神：巴霍巴利王：Angela 推薦，「動作喜劇(?)」
+  * Life Is Beautiful 美麗人生：Flora 推薦，「在講納粹集中營的，超好看，好笑又難過」
+  * The Legend of 1900 海上鋼琴師：Flora 推薦
+  * Vicky Cristina Barcelona 情遇巴塞隆納：Flora 推薦
+  * Midnight in Paris 午夜巴黎：Flora 推薦
+  * Priceless 巴黎拜金女：Flora 推薦，「喜劇」
+  * We Bought a Zoo 我們買了動物園：Flora 推薦，「喜劇」
   * Fight Club 鬥陣俱樂部
   * Arrival 異星入境
   * Pulp Fiction 黑色追緝令
