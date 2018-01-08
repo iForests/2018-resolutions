@@ -128,6 +128,9 @@
   * Blue Valentine 藍色情人節：Katie 推薦，「看到一直哭」
   * 怒：Renée 推薦
   * Eternal Sunshine of the Spotless Mind 王牌冤家：Renée 推薦
+  * Taare Zameen Par 心中的小星星：Paul 推薦
+  * Peekay 來自星星的傻瓜 PK：Paul 推薦
+  * Miss Sloane 攻敵必救：Paul 推薦
   * Fight Club 鬥陣俱樂部
   * Arrival 異星入境
   * Pulp Fiction 黑色追緝令
