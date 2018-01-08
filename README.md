@@ -122,7 +122,7 @@
   * Life Is Beautiful 美麗人生：Flora 推薦，「在講納粹集中營的，超好看，好笑又難過」
   * The Legend of 1900 海上鋼琴師：Flora 推薦
   * Vicky Cristina Barcelona 情遇巴塞隆納：Flora 推薦
-  * Midnight in Paris 午夜巴黎：Flora 推薦
+  * Midnight in Paris 午夜巴黎 三部曲：Flora、Renée 推薦
   * Priceless 巴黎拜金女：Flora 推薦，「喜劇」
   * We Bought a Zoo 我們買了動物園：Flora 推薦，「喜劇」
   * Blue Valentine 藍色情人節：Katie 推薦，「看到一直哭」
