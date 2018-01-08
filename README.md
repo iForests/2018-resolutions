@@ -125,6 +125,9 @@
   * Midnight in Paris 午夜巴黎：Flora 推薦
   * Priceless 巴黎拜金女：Flora 推薦，「喜劇」
   * We Bought a Zoo 我們買了動物園：Flora 推薦，「喜劇」
+  * Blue Valentine 藍色情人節：Katie 推薦，「看到一直哭」
+  * 怒：Renée 推薦
+  * Eternal Sunshine of the Spotless Mind 王牌冤家：Renée 推薦
   * Fight Club 鬥陣俱樂部
   * Arrival 異星入境
   * Pulp Fiction 黑色追緝令
