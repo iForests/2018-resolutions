@@ -131,6 +131,9 @@
   * Taare Zameen Par 心中的小星星：Paul 推薦
   * Peekay 來自星星的傻瓜 PK：Paul 推薦
   * Miss Sloane 攻敵必救：Paul 推薦
+  * The Internet's Own Boy 網際網路之子：Paul 推薦
+  * TPB AFK: The Pirate Bay Away From Keyboard：Paul 推薦
+  * 明天我要和昨天的妳約會：Paul 推薦
   * Fight Club 鬥陣俱樂部
   * Arrival 異星入境
   * Pulp Fiction 黑色追緝令
