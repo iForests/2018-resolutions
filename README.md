@@ -17,7 +17,7 @@
   * 1/6 一一
   * 1/3 Trainspotting 猜火車
 * 順便記一下看過的 2018 年的電影
-  * 2/12 Three Billboards Outside Ebbing, Missouri 意外 (10)：滿分，無可挑剔了
+  * 2/12 Three Billboards Outside Ebbing, Missouri 意外 (10)：滿分，無可挑剔了
   * 1/4 Wonder 奇蹟男孩 (7)：狗狗線和姊姊線很感人；奧吉線有點太美好了，真實世界大概殘酷一百倍吧
 * 預計要看的清單
   * Orange County 橘郡男孩：Dayo 推薦
