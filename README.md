@@ -4,13 +4,20 @@
 
 1/2 (+5), 1/3 (+3), 1/6 (+6), 1/9 (+8), 1/10 (+5), 1/15 (+3)
 
-## 看 52 部舊電影：3 / 52
+## 看 52 部舊電影：9 / 52
 
 * DONE
+  * 2/10 It 牠
+  * 2/4 Breakfast at Tiffany's 第凡內早餐
+  * 2/3 The Skeleton Key 毒鑰
+  * 1/27 Fight Club 鬥陣俱樂部
+  * 1/23 Lock, Stock and Two Smoking Barrels 兩根槍管
+  * 1/20 
   * 1/13 Léon: The Professional 終極追殺令
   * 1/6 一一
   * 1/3 Trainspotting 猜火車
 * 順便記一下看過的 2018 年的電影
+  * 2/12 Three Billboards Outside Ebbing, Missouri 意外 (10)：滿分，無可挑剔了
   * 1/4 Wonder 奇蹟男孩 (7)：狗狗線和姊姊線很感人；奧吉線有點太美好了，真實世界大概殘酷一百倍吧
 * 預計要看的清單
   * Orange County 橘郡男孩：Dayo 推薦
