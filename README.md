@@ -4,9 +4,10 @@
 
 1/2 (+5), 1/3 (+3), 1/6 (+6), 1/9 (+8), 1/10 (+5), 1/15 (+3)
 
-## 看 52 部舊電影：9 / 52
+## 看 52 部舊電影：10 / 52
 
 * DONE
+  * 2/17 女朋友。男朋友
   * 2/10 It 牠
   * 2/4 Breakfast at Tiffany's 第凡內早餐
   * 2/3 The Skeleton Key 毒鑰
@@ -87,7 +88,7 @@
   * Split 分裂：Claire 推薦
   * Being John Malkovich 變腦：Claire 推薦
   * Micmacs 異想奇謀：B 咖的拯救世界大作戰：Claire 推薦
-  * 讓子彈飛：Claire 推薦
+  * 讓子彈飛：Renée、Claire 推薦
   * 活著：Claire 推薦
   * Inside Out 腦筋急轉彎：Ya-Chu Chang 推薦
   * The Shining 鬼店：Ciana、黃媃 推薦
