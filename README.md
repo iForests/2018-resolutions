@@ -7,6 +7,7 @@
 ## 看 52 部舊電影：10 / 52
 
 * DONE
+  * 2/23 A Clockwork Orange 發條橘子
   * 2/17 女朋友。男朋友
   * 2/10 It 牠
   * 2/4 Breakfast at Tiffany's 第凡內早餐
