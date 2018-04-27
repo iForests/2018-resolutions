@@ -28,6 +28,7 @@
   * 2/12 Three Billboards Outside Ebbing, Missouri 意外 (10)：滿分，無可挑剔了
   * 1/4 Wonder 奇蹟男孩 (7)：狗狗線和姊姊線很感人；奧吉線有點太美好了，真實世界大概殘酷一百倍吧
 * 預計要看的清單
+  * Incendies 烈火焚身
   * Orange County 橘郡男孩：Dayo 推薦
   * The Room 房間：周忠毅推薦，「爛到今年有一部傳記電影在講他」
   * 一個人的武林：馬瑞推薦，「打鬥是蠻不錯，但劇情真的太爛了」
