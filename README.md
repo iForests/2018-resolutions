@@ -4,9 +4,10 @@
 
 1/2 (+5), 1/3 (+3), 1/6 (+6), 1/9 (+8), 1/10 (+5), 1/15 (+3), 4/26 (+6)
 
-## 看 52 部舊電影：19 / 52
+## 看 52 部舊電影：20 / 52
 
 * DONE
+  * 9/16 Se7en 火線追緝令
   * 6/17 The Incredibles 超人特攻隊
   * 5/6 Perfetti sconosciuti 完美陌生人
   * 4/20 Eternal Sunshine of the Spotless Mind 王牌冤家
